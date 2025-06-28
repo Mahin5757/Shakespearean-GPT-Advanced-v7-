@@ -1,4 +1,4 @@
-Shakespearean GPT (Advanced v7)
+**Shakespearean GPT (Advanced v7)**
 This project contains the implementation of "Shakespearean GPT," an advanced, high-performance autoregressive language model based on the GPT architecture. It is specifically designed and trained to generate high-quality text in the style of William Shakespeare. The model incorporates modern deep learning techniques such as Grouped-Query Attention (GQA), RoPE positional embeddings, RMSNorm, and SwiGLU activations for enhanced performance and parameter efficiency.
 
 Beyond simple text generation, this project includes a fully functional, interactive chatbot that allows users to converse with the "Bard" in real-time.
