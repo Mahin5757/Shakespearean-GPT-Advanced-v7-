@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Data and Models - These can be large, so it's best to not track them directly in Git.
+# Provide instructions in the README on how to obtain or generate them.
+*.txt
+*.pth
+*.json
+
+# IDE and OS specific
+.vscode/
+.idea/
+.DS_Store
+*.swo
+*.swp
